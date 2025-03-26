@@ -1,0 +1,2 @@
+python-telegram-bot==13.7
+instagrapi==1.16.20
